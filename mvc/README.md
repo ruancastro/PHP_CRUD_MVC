@@ -31,3 +31,9 @@ class Usuario extends Model {
 
 }
 ```
+
+## CRUD com MVC aplicado:
+
+Repositório base: https://github.com/suporteb7web/mvc
+
+

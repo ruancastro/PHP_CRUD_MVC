@@ -22,7 +22,7 @@
                 <img width="22" src="<?=$base;?>/assets/images/edit_icon.png "alt="" />
             </a>   <!-- link editar -->  <!-- no mvc nunca redirecionamos para um arquivo php e sim para uma rota -->
             
-            <a href="<?=$base;?>/usuario/<?=$usuario['id'];?>/excluir" onclick="return confirm ('Tem certeza que quer excluir parça?')"><!-- link excluir -->
+            <a href="<?=$base;?>/usuario/<?=$usuario['id'];?>/excluir" onclick="return confirm ('Tem certeza que deseja excluir?')"><!-- link excluir -->
             <img width="19" src="<?=$base;?>/assets/images/trash_icon.png "alt="" />
             </a>
         </td>
