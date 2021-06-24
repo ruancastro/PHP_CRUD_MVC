@@ -36,6 +36,7 @@ class Usuario extends Model {
 
 Repositório base: https://github.com/suporteb7web/mvc
 
-<img src="mvc\imagens_git\tela_inicial.jpg">
+
+![Tela inicial do cadastro de usuários](https://github.com/ruancastro/PHP_CRUD_MVC/blob/master/images_git/tela_inicio.jpg)
 
 
